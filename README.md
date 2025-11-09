@@ -1,16 +1,16 @@
-# 🏪 Walmart Sales Analysis Dashboard  
+# Walmart Sales Analysis Dashboard  
 
 <p align="center">
   <img src="visuals/dashboard_screenshot.png" width="800" alt="Walmart Sales Dashboard Preview">
 </p>
 
-### 📊 A Data Analyst Portfolio Project  
+### A Data Analyst Portfolio Project  
 
 This end-to-end data analytics project explores **Walmart store sales performance** to uncover trends, seasonal patterns, and economic influences.
 
 ---
 
-## 📁 Project Overview  
+## Project Overview  
 
 The project follows a real-world **data analysis workflow**, starting from raw data exploration to SQL queries and interactive dashboard visualization.
 
@@ -23,7 +23,7 @@ The project follows a real-world **data analysis workflow**, starting from raw d
 
 ---
 
-## 🧠 Tools & Technologies Used  
+## Tools & Technologies Used  
 
 | Tool | Purpose |
 |------|----------|
@@ -34,7 +34,7 @@ The project follows a real-world **data analysis workflow**, starting from raw d
 
 ---
 
-## 🧹 Data Cleaning  
+## Data Cleaning  
 
 Performed using Python in Jupyter Notebook:
 - Removed duplicates and nulls  
@@ -44,7 +44,7 @@ Performed using Python in Jupyter Notebook:
 
 ---
 
-## 🧮 SQL Analysis  
+## SQL Analysis  
 
 Key business queries stored in `/sql/analysis_queries.sql`:
 
@@ -65,21 +65,21 @@ Other analyses include:
 
 ---
 
-## 📊 Tableau Dashboard  
+## Tableau Dashboard  
 
 Explore the interactive dashboard here:  
-👉 [View on Tableau Public](https://public.tableau.com/views/YOUR_DASHBOARD_LINK_HERE)
+👉 [View on Tableau Public](https://public.tableau.com/views/Walmart_sales_dashboard_17623467036450/WalmartSalesPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Key Insights  
-- 🏪 **Store 20** consistently leads in average weekly sales  
-- 🎉 **Holiday weeks** see ~20 % higher average sales  
-- 📅 **Seasonal peaks** occur around November–December  
-- 📉 **Slight negative correlation** between unemployment and sales  
-- 💡 Clear evidence of store-level variation and seasonality  
+- **Store 20** consistently leads in average weekly sales  
+- **Holiday weeks** see ~20 % higher average sales  
+- **Seasonal peaks** occur around November–December  
+- **Slight negative correlation** between unemployment and sales  
+- Clear evidence of store-level variation and seasonality  
 
 ---
 
-## 📂 Project Structure  
+## Project Structure  
 
 ```
 walmart-sales-analysis/
@@ -100,7 +100,7 @@ walmart-sales-analysis/
 
 ---
 
-## 📈 Results Summary  
+## Results Summary  
 
 | Metric | Insight |
 |--------|----------|
@@ -111,7 +111,7 @@ walmart-sales-analysis/
 
 ---
 
-## 🧩 Tableau Workbook  
+## Tableau Workbook  
 
 You can download and open the full Tableau workbook here:  
 📁 [walmart_sales_dashboard.twbx](visuals/walmart_sales_dashboard.twbx)
@@ -120,11 +120,11 @@ You can download and open the full Tableau workbook here:
 
 ---
 
-## 🙌 Acknowledgements  
+## Acknowledgements  
 - **Dataset:** [Walmart Store Sales Forecasting – Kaggle](https://www.kaggle.com/datasets/whenamancodes/walmart-sales-forecasting)  
 - **Developed by:** *Your Name*  
 - **Tools:** Python, SQL, Tableau, GitHub  
 
 ---
 
-> 💡 *This project showcases data cleaning, SQL querying, and Tableau visualization — essential skills for a Data Analyst role.*
+> *This project showcases data cleaning, SQL querying, and Tableau visualization — essential skills for a Data Analyst role.*
